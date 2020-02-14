@@ -12,7 +12,8 @@ public class ExampleStringCharAt {
     String string = "skillbox";
 
     // получим и распечатаем символ под индексом 0, это символ s
-    Character character = string.charAt(0);
+    //Всё просто! Для понимания: s - это индекс 0, k - 1, i - 2, l - 3, l - 4, b - 5, o - 6, x - 7
+    Character character = string.charAt(0);//По данному индексу выведется значение "s"
     System.out.println(character);
 
     // получим и распечатаем символ под индексом 5, это символ b
