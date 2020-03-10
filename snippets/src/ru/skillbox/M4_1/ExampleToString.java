@@ -1,4 +1,4 @@
-package ru.skillbox;
+package ru.skillbox.M4_1;
 
 import java.util.Calendar;
 import java.util.Date;
@@ -6,9 +6,11 @@ import java.util.Date;
 public class ExampleToString {
 
   public static void main(String[] args) {
-    /** метод toString()
-     * метод преобразует любой объект в объект типа String
-     * метод toString есть у всех объектов Java
+    /*
+     метод toString()
+     метод преобразует любой объект в объект типа String
+     метод toString есть у всех объектов Java, так как любой объект неявно наследует суперкласс Object
+     У Object метод toString() возвращает хэшкод объекта
      */
 
     //создадим новый объект типа Integer и выведем содержимое и тип переменной

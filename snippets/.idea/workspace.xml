@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6bfae7f-9e5c-4e8f-ab77-13371c44b1d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ru/skillbox/M4_4/ExampleStringIndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/skillbox/M4_4/ExampleStringLastIndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/skillbox/M4_4/ExampleStringSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/skillbox/M4_4/ExampleStringTrim.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/skillbox/ExampleToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/skillbox/ExampleToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/skillbox/ExampleParseInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/skillbox/M4_1/ExampleParseInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/skillbox/ExampleStringCharAt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/skillbox/M4_1/ExampleStringCharAt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/skillbox/ExampleStringLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/skillbox/M4_1/ExampleStringLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/skillbox/ExampleStringValueOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/skillbox/M4_1/ExampleStringValueOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/skillbox/ExampleToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/skillbox/M4_1/ExampleToString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +51,13 @@
       <recent name="ru.skillbox" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="ExampleStringCharAt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.skillbox.ExampleStringCharAt" />
+  <component name="RunManager" selected="Application.ExampleStringTrim">
+    <configuration name="ExampleParseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.skillbox.M4_1.ExampleParseInt" />
       <module name="snippets" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.skillbox.*" />
+          <option name="PATTERN" value="ru.skillbox.M4_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExampleStringLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.skillbox.ExampleStringLength" />
+    <configuration name="ExampleStringIndexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.skillbox.M4_4.ExampleStringIndexOf" />
       <module name="snippets" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.skillbox.*" />
+          <option name="PATTERN" value="ru.skillbox.M4_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExampleStringValueOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.skillbox.ExampleStringValueOf" />
+    <configuration name="ExampleStringLastIndexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.skillbox.M4_4.ExampleStringLastIndexOf" />
       <module name="snippets" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.skillbox.*" />
+          <option name="PATTERN" value="ru.skillbox.M4_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.skillbox.equalsnashcode.Main" />
+    <configuration name="ExampleStringSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.skillbox.M4_4.ExampleStringSubstring" />
       <module name="snippets" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.skillbox.equalsnashcode.*" />
+          <option name="PATTERN" value="ru.skillbox.M4_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,30 +104,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ru.skillbox.ExampleToString" />
+    <configuration name="ExampleStringTrim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.skillbox.M4_4.ExampleStringTrim" />
       <module name="snippets" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.skillbox.M4_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ExampleStringCharAt" />
-      <item itemvalue="Application.ExampleStringLength" />
-      <item itemvalue="Application.ExampleStringValueOf" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ExampleParseInt" />
+      <item itemvalue="Application.ExampleStringIndexOf" />
+      <item itemvalue="Application.ExampleStringLastIndexOf" />
+      <item itemvalue="Application.ExampleStringSubstring" />
+      <item itemvalue="Application.ExampleStringTrim" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ExampleStringValueOf" />
-        <item itemvalue="Application.ExampleStringLength" />
-        <item itemvalue="Application.ExampleStringCharAt" />
+        <item itemvalue="Application.ExampleStringTrim" />
+        <item itemvalue="Application.ExampleStringSubstring" />
+        <item itemvalue="Application.ExampleStringLastIndexOf" />
+        <item itemvalue="Application.ExampleStringIndexOf" />
+        <item itemvalue="Application.ExampleParseInt" />
       </list>
     </recent_temporary>
   </component>
@@ -150,35 +161,48 @@
       <screen x="0" y="484" width="1920" height="1080" />
     </state>
     <state x="750" y="641" width="392" height="571" key="#com.intellij.ide.util.MemberChooser/1920.0.2560.1440/0.484.1920.1080@0.484.1920.1080" timestamp="1581355603090" />
-    <state x="458" y="698" width="442" height="493" key="FileChooserDialogImpl" timestamp="1581358693749">
-      <screen x="0" y="484" width="1920" height="1080" />
+    <state x="458" y="214" width="735" height="822" key="FileChooserDialogImpl" timestamp="1583212206670">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="464" y="270" width="733" height="579" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1581143522256" />
+    <state x="458" y="214" width="735" height="822" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1583212206670" />
+    <state x="412" y="686" key="FileChooserDialogImpl/0.0.4480.1563@0.0.4480.1563" timestamp="1581708966238" />
     <state x="458" y="698" width="442" height="493" key="FileChooserDialogImpl/1920.0.2560.1440/0.484.1920.1080@0.484.1920.1080" timestamp="1581358693749" />
-    <state width="1880" height="186" key="GridCell.Tab.0.bottom" timestamp="1581357241646">
-      <screen x="0" y="484" width="1920" height="1080" />
+    <state width="1818" height="537" key="GridCell.Tab.0.bottom" timestamp="1583850176994">
+      <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state width="2520" height="496" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581143523005" />
+    <state width="1994" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583212207197" />
+    <state width="1868" height="374" key="GridCell.Tab.0.bottom/0.0.4480.1563@0.0.4480.1563" timestamp="1581708966893" />
     <state width="2520" height="496" key="GridCell.Tab.0.bottom/0.0.4480.1568@0.0.4480.1568" timestamp="1581106812295" />
+    <state width="1994" height="327" key="GridCell.Tab.0.bottom/0.0.4480.1675@0.0.4480.1675" timestamp="1583178330221" />
     <state width="1880" height="186" key="GridCell.Tab.0.bottom/1920.0.2560.1440/0.484.1920.1080@0.484.1920.1080" timestamp="1581357241646" />
-    <state width="1880" height="186" key="GridCell.Tab.0.center" timestamp="1581357241646">
-      <screen x="0" y="484" width="1920" height="1080" />
+    <state width="1818" height="537" key="GridCell.Tab.0.bottom/1920.0.2560.1440/0.645.1920.1080@1920.0.2560.1440" timestamp="1583850176994" />
+    <state width="1818" height="537" key="GridCell.Tab.0.center" timestamp="1583850176994">
+      <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state width="2520" height="496" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581143523003" />
+    <state width="1994" height="327" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583212207197" />
+    <state width="1868" height="374" key="GridCell.Tab.0.center/0.0.4480.1563@0.0.4480.1563" timestamp="1581708966891" />
     <state width="2520" height="496" key="GridCell.Tab.0.center/0.0.4480.1568@0.0.4480.1568" timestamp="1581106812295" />
+    <state width="1994" height="327" key="GridCell.Tab.0.center/0.0.4480.1675@0.0.4480.1675" timestamp="1583178330219" />
     <state width="1880" height="186" key="GridCell.Tab.0.center/1920.0.2560.1440/0.484.1920.1080@0.484.1920.1080" timestamp="1581357241646" />
-    <state width="1880" height="186" key="GridCell.Tab.0.left" timestamp="1581357241646">
-      <screen x="0" y="484" width="1920" height="1080" />
+    <state width="1818" height="537" key="GridCell.Tab.0.center/1920.0.2560.1440/0.645.1920.1080@1920.0.2560.1440" timestamp="1583850176994" />
+    <state width="1818" height="537" key="GridCell.Tab.0.left" timestamp="1583850176994">
+      <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state width="2520" height="496" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581143523003" />
+    <state width="1994" height="327" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583212207196" />
+    <state width="1868" height="374" key="GridCell.Tab.0.left/0.0.4480.1563@0.0.4480.1563" timestamp="1581708966891" />
     <state width="2520" height="496" key="GridCell.Tab.0.left/0.0.4480.1568@0.0.4480.1568" timestamp="1581106812294" />
+    <state width="1994" height="327" key="GridCell.Tab.0.left/0.0.4480.1675@0.0.4480.1675" timestamp="1583178330218" />
     <state width="1880" height="186" key="GridCell.Tab.0.left/1920.0.2560.1440/0.484.1920.1080@0.484.1920.1080" timestamp="1581357241646" />
-    <state width="1880" height="186" key="GridCell.Tab.0.right" timestamp="1581357241646">
-      <screen x="0" y="484" width="1920" height="1080" />
+    <state width="1818" height="537" key="GridCell.Tab.0.left/1920.0.2560.1440/0.645.1920.1080@1920.0.2560.1440" timestamp="1583850176994" />
+    <state width="1818" height="537" key="GridCell.Tab.0.right" timestamp="1583850176994">
+      <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state width="2520" height="496" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581143523004" />
+    <state width="1994" height="327" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583212207197" />
+    <state width="1868" height="374" key="GridCell.Tab.0.right/0.0.4480.1563@0.0.4480.1563" timestamp="1581708966892" />
     <state width="2520" height="496" key="GridCell.Tab.0.right/0.0.4480.1568@0.0.4480.1568" timestamp="1581106812295" />
+    <state width="1994" height="327" key="GridCell.Tab.0.right/0.0.4480.1675@0.0.4480.1675" timestamp="1583178330220" />
     <state width="1880" height="186" key="GridCell.Tab.0.right/1920.0.2560.1440/0.484.1920.1080@0.484.1920.1080" timestamp="1581357241646" />
+    <state width="1818" height="537" key="GridCell.Tab.0.right/1920.0.2560.1440/0.645.1920.1080@1920.0.2560.1440" timestamp="1583850176994" />
     <state width="1880" height="186" key="GridCell.Tab.1.bottom" timestamp="1581357241646">
       <screen x="0" y="484" width="1920" height="1080" />
     </state>
@@ -199,11 +223,18 @@
       <screen x="0" y="484" width="1920" height="1080" />
     </state>
     <state x="438" y="645" width="1037" height="731" key="SettingsEditor/1920.0.2560.1440/0.484.1920.1080@0.484.1920.1080" timestamp="1581355068959" />
-    <state x="92" y="323" width="1223" height="900" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581358016932">
-      <screen x="0" y="484" width="1920" height="1080" />
+    <state x="2045" y="130" width="1308" height="1255" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583850425180">
+      <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="103" y="-17" width="1223" height="900" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1581102612387" />
+    <state x="91" y="-129" width="1223" height="900" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1583146416381" />
     <state x="222" y="-193" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.4480.1568@0.0.4480.1568" timestamp="1581105212161" />
+    <state x="235" y="265" width="1355" height="1355" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.4480.1675@0.0.4480.1675" timestamp="1583178283512" />
     <state x="92" y="323" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.2560.1440/0.484.1920.1080@0.484.1920.1080" timestamp="1581358016932" />
+    <state x="2045" y="130" width="1308" height="1255" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.2560.1440/0.645.1920.1080@1920.0.2560.1440" timestamp="1583850425180" />
+    <state x="369" y="-2" width="1177" height="2118" key="search.everywhere.popup" timestamp="1583171047886">
+      <screen x="0" y="0" width="4480" height="1675" />
+    </state>
+    <state x="369" y="-2" width="1177" height="1976" key="search.everywhere.popup/0.0.4480.1563@0.0.4480.1563" timestamp="1581705571236" />
+    <state x="369" y="-2" width="1177" height="2118" key="search.everywhere.popup/0.0.4480.1675@0.0.4480.1675" timestamp="1583171047886" />
   </component>
 </project>

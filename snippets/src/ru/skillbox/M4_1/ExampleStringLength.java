@@ -1,11 +1,12 @@
-package ru.skillbox;
+package ru.skillbox.M4_1;
 
 public class ExampleStringLength {
 
   public static void main(String[] args) {
-    /** метод length() объекта String
-     * возвращает длину строки в виде int
-     * можно сделать вывод что максимальная длина строки это максимальное значение типа Integer
+    /*
+     метод length() объекта String
+     возвращает длину строки в виде int
+     можно сделать вывод что максимальная длина строки это максимальное значение типа Integer
      */
 
     // строка для работы

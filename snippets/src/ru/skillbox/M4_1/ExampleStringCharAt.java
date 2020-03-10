@@ -1,11 +1,12 @@
-package ru.skillbox;
+package ru.skillbox.M4_1;
 
 public class ExampleStringCharAt {
 
   public static void main(String[] args) {
-    /** метод объекта String charAt(int index)
-     * получаем символ строки по индексу
-     * индекс в строке начинается с 0, то есть если строка длиной 5 символов, то последний индекс 4
+    /*
+     метод объекта String charAt(int index)
+     получаем символ строки по индексу
+     индекс в строке начинается с 0, то есть если строка длиной 5 символов, то последний индекс 4
      */
 
     // строка для работы

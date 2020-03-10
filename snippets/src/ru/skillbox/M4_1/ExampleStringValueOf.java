@@ -1,4 +1,4 @@
-package ru.skillbox;
+package ru.skillbox.M4_1;
 
 import java.util.Calendar;
 import java.util.Date;
@@ -6,10 +6,11 @@ import java.util.Date;
 public class ExampleStringValueOf {
 
   public static void main(String[] args) {
-    /** метод valueOf()
-     * метод преобразует любой объект в объект типа String
-     * метод похож на toString, только в этом случае мы передаем объект в аргумент метода, а
-     * не вызываем метод у объекта
+    /*
+     метод valueOf()
+     метод преобразует любой объект в объект типа String
+     метод похож на toString, только в этом случае мы передаем объект в аргумент метода, а
+     не вызываем метод у объекта
      */
 
     //создадим новый объект типа Integer и выведем содержимое и тип переменной
